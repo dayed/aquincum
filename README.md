@@ -3,7 +3,7 @@ Aquincum
 
 Aquincum - responsive template with lots of custom elements and very flexible content structure.
 
-![alt text](http://themes.kopyov.com/aquincum/images/live/messages.png "Aquincum UI")
+![alt text](http://maxcdn.webappers.com/img/2012/09/admin-templates/admin-template-1.jpg "Aquincum UI")
 
 ## Overview
 * It has 3 columns liquid structure with 3 level navigation and 2 level sidebar.
